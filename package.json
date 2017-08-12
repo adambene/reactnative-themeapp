@@ -20,5 +20,12 @@
 	"jest": {
 		"preset": "react-native"
 	},
-	"license": "MIT"
+	"license": "MIT",
+	"author": {
+		"name": "Adam Bene",
+		"url": "https://github.com/adambene"
+	},
+  "repository": {
+		"url": "https://github.com/adambene/reactnative-themeapp"
+	}
 }
